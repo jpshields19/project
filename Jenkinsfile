@@ -2,7 +2,7 @@ pipeline {
 
   environment {
 
-    registry = "justinpshields/docker-test"
+    registry = "justinpshields/docker_test"
 
     registryCredential = 'dockerhub'
 
